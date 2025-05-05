@@ -18,11 +18,10 @@ Run exercises in Google Colab:
 To solve the exercises in Google Colab, click the _Copy to drive_ button and remember to change
 your runtime type to GPU under _Runtime > Change runtime type_.
 
-Check out exercises and run locally:
+Clone exercises and run locally:
 ```
 git clone https://github.com/theoheimel/erum-cnn-2025.git
 ```
-
 If you run the exercises locally, make sure you have all the dependencies installed:
 ```
 pip install -r requirements.txt
